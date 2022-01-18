@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "421gitexample", "421gitexample\421gitexample.csproj", "{0F10E106-A263-4F41-BF02-6DA5EE96EDED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F10E106-A263-4F41-BF02-6DA5EE96EDED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F10E106-A263-4F41-BF02-6DA5EE96EDED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F10E106-A263-4F41-BF02-6DA5EE96EDED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F10E106-A263-4F41-BF02-6DA5EE96EDED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5702B1A-3085-480E-BC72-40CBADCC55B0}
+	EndGlobalSection
+EndGlobal
